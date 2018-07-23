@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class IntegerCount {
+public class Integer {
 	public static void main(String[] args) {
 		String r;
 		System.out.println("Enter the String: ");
