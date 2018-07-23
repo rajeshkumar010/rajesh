@@ -7,11 +7,11 @@ public class Nrange {
 		a=rk.nextInt();
 		int v[]=new int[10];
 		if(a<10){
-			System.out.println(a);
+			System.out.println("yes");
 			
 		}
 		else{
-			System.out.println("0");
+			System.out.println("No");
 		}
 		
 	}
